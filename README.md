@@ -4,7 +4,7 @@ I'm an experienced iOS Developer (9+ years) from Germany with a unique backgroun
 My journey with computers started with the Commodore64, MS-DOS, Win3.11 up to Windows XP, until I got my first Mac in 2009. <br>
 
 • 👨‍💻 I'm the creator of [MergeKey](https://apps.apple.com/us/app/mergekey/id6478465716) and working currently on it. You can find my other iOS-Projects [here!](https://apps.apple.com/us/developer/andrei-achziger/id1411891455). <br>
-• 🧗 I'm continuously expanding my knowledge in various fields regarding the Apple ecosystem such as Virtual Reality, AI, Blockchain and more. <br>
+• 🧗 I'm continuously expanding my knowledge in various fields regarding the Apple ecosystem such as Virtual/Augmented Reality, AI and more. <br>
 • 👯 I'm looking to collaborate on innovative projects and games, if you can name it I can build it. <br>
 • 💬 Ask me about iOS/iPadOS/watchOS development, web development, or philosophy in general. <br>
 
