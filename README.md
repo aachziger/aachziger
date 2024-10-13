@@ -21,7 +21,7 @@ My journey with computers started with the Commodore64, MS-DOS, Win3.11 up to Wi
 • Familiar with RESTful APIs and web service integration. <br>
 • Strong foundation in Cognitive Science, applying principles to user-centric design. <br>
 • Knowledge of neuroscience and neuroinformatics, informing AI and machine learning applications. <br>
-• Philosophical approach to problem-solving, critical thinking and ethical considerations in tech. <br>
+• Philosophical approach to problem solving, critical thinking and ethical considerations in tech. <br>
 ##
 My broad knowledge base spanning hardware, software, AI, and Cognitive Science allows me to approach software development with a holistic perspective, integrating insights from various disciplines into innovative and user-focused solutions.
 
